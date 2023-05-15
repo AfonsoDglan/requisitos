@@ -5,7 +5,7 @@ TODO
 # Requisitos
 
 ## Iteração 1:
-[IDs de títulos]([#identifier](https://github.com/AfonsoDglan/requisitos/blob/main/requisito.md#meu-t%C3%ADtulo-identifier))
+[afonso](#rf21---definir-qualidade-do-vídeo)
 
 - [ ] RF01 - Cadastrar Usuário [João](https://github.com/wchar-t)
 - [ ] RF02 - Fazer Login [João](https://github.com/wchar-t)
